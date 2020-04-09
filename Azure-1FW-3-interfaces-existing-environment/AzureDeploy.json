@@ -184,7 +184,8 @@
       "type": "string",
       "metadata": {
         "description": "Name of ARA-VMFW1 Management Public Address"
-      }
+      },
+    "defaultValue": "devt-ce-palo-mgt"
     },
     "nsgName": {
       "type": "string",
